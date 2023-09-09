@@ -1,0 +1,9 @@
+export const BASE_URL = "http://34.230.35.229:8081/generated_app"; //Enter Backend URL here
+export const PATH_APPOINTMENT = "/Appointments";
+export const PATH_PETOWNER = "/PetOwners";
+export const PATH_VETERIAN = "/Veterians";
+export const PATH_VISIT = "/Visits";
+export const PATH_VACCINESCHEDULER = "/VaccineSchedulers";
+export const PATH_IMAGE = "/Images";
+export const PATH_PET = "/Pets";
+export const PATH_VISITSCHEDULER = "/VisitSchedulers";
